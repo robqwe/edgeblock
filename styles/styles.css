@@ -237,3 +237,7 @@ main .section.highlight {
 main .section.lightblue {
   background-color: lightblue;
 }
+
+main .section.lightgrey {
+  background-color: lightslategrey;
+}
